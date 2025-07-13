@@ -1,4 +1,4 @@
-FROM 3.9-slim-bookworm
+FROM python:3.9-slim-bookworm
 
 LABEL "maintainer"="Scott Ng <thuongnht@gmail.com>"
 LABEL "repository"="https://github.com/antonov1991/ssh-scp-ssh-pipelines"
