@@ -1,5 +1,5 @@
-# SSH SCP SSH Pipelines
-
+# SSH SCP SSH Pipelines (Fork)
+Fork of [https://github.com/cross-the-world/ssh-scp-ssh-pipelines](https://github.com/cross-the-world/ssh-scp-ssh-pipelines) with fresh python image.
 [Github actions](https://help.github.com/en/actions/creating-actions/creating-a-docker-container-action)
 
 [SSH action](https://github.com/cross-the-world/ssh-pipeline)
